@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>为什么component中的data必须是一个function</title>
+  <script type="text/javascript" src="./lib/vue-2.4.0.js"></script>
+</head>
+<body>
+
+  <div id="app">
+    <counter></counter>
+    <hr>
+    <counter></counter>
+    <hr>
+    <counter></counter>
+  </div>
+
+  <template id="tmpl">
+    <div>
+      <input type="button" value="+1" @click="increment">
+      <h3>{{count}}</h3>
+    </div>
+  </template>
+
+  <script type="text/javascript">
+
+    // var dataObj = {count: 0}
+    //这是一个计数器的组件，身上有个按钮，每当点击按钮，让data 中的 count 值+1
+    Vue.component('counter', {
+      template: '#tmpl',
+      data: function () {
+        // return dataObj
+        return {
+          count:0
+        }
+      },
+      methods: {
+        increment() {
+          this.count++
+        }
+      }
+    })
+    var vm = new Vue({
+      el: '#app',
+      data: {},
+      methods: {}
+    })
+  </script>
+</body>
+</html>

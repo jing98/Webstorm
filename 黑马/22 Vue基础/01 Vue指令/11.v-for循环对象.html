@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>v-for循环对象</title>
+  <script type="text/javascript" src="./lib/vue-2.4.0.js"></script>
+</head>
+<body>
+
+  <div id="app">
+    <!--注意：在遍历对象身上的键值对的时候，除了 有 val key ，在第三个位置还有一个索引-->
+    <p v-for="(val,key,i) in user">值是:{{val}}---键是:{{key}}---索引:{{i}}</p>
+  </div>
+
+  <script type="text/javascript">
+    var vm = new Vue({
+      el:'#app',
+      data:{
+        user:{
+          id:1,
+          name:'tony',
+          gender:'男'
+        }
+      }
+    })
+  </script>
+</body>
+</html>

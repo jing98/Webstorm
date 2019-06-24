@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>09_Vue实例_生命周期</title>
+</head>
+<body>
+<!--
+1. vue对象的生命周期
+  1). 初始化显示
+    * beforeCreate()
+    * created()
+    * beforeMount()
+    * mounted()
+  2). 更新显示:this.xxx = value
+    * beforeUpdate()
+    * updated()
+  3). 销毁vue实例: vm.$destory()
+    * beforeDestory()
+    * destoryed()
+2. 常用的生命周期方法
+  mounted(): 发送ajax请求, 启动定时器等异步任务
+  beforeDestory(): 做收尾工作, 如: 清除定时器
+-->
+
+<div id="test">
+  <button @click="destroyVm">destroy vm</button>
+  <p v-show="isShow">尚硅谷IT教育</p>
+  <p>{{isShow}}</p>
+  <p>{{isShow}}</p>
+  <p>{{isShow}}</p>
+</div>
+
+<script type="text/javascript" src="../js/vue.js"></script>
+<script type="text/javascript">
+  new Vue({
+    el:"#test",
+    data:{
+      isShow:true
+    },
+
+    //1.初始阶段
+    beforeCreate(){
+      console.log("beforeCreate")
+    },
+    created(){
+      console.log("Created")
+    },
+
+    beforeMount(){
+      console.log("beforeMount")
+    },
+    mounted(){//初始化显示之后立即调用（1次）
+      console.log("mounted")
+    /*
+        箭头函数体内的this对象，就是定义时所在的对象，而不是使用时所在的对象
+        箭头函数的作用之一就是简化（回调函数）：
+                               -你定义的
+                               -你没有调用
+                               -但是它最终执行了
+    *   相当于setInterval(function(){
+    *             this.isShow = !this.isShow
+    *         })
+    * */
+     this.intervalId = setInterval(() => {
+        console.log("----------");
+        this.isShow = !this.isShow   //更新数据
+      },1000)
+    },
+
+    //2.更新阶段
+    beforeUpdate(){
+      console.log("beforeUpdate")
+    },
+    updated(){
+      console.log("updated")
+    },
+
+    //3.死亡阶段
+    beforeDestroy(){//死亡之前调用（1次）
+      console.log("beforeDestroy")
+      //清除定时器
+      clearInterval(this.intervalId)
+    },
+    destroyed(){
+      console.log("destroyed")
+    }
+    
+    methods:{
+      destroyVm(){
+        //干掉vm
+        this.$destroy()
+      }
+    }
+  })
+
+</script>
+</body>
+</html>

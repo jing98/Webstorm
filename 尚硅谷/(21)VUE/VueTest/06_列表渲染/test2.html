@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>06_列表渲染_过滤与排序</title>
+</head>
+<body>
+<!--
+1. 列表过滤
+2. 列表排序
+-->
+
+<div id="test">
+  <input type="text" v-model="searchName">
+  <ul>
+    <li v-for="(p,index) in filterPersons" :key="index">
+      {{index}}---{{p.name}}---{{p.age}}
+    </li>
+  </ul>
+
+  <button @click="setorderType(1)">年龄升序</button>
+  <button @click="setorderType(2)">年龄降序</button>
+  <button @click="setorderType(0)">原本顺序</button>
+</div>
+
+<script type="text/javascript" src="../js/vue.js"></script>
+<script type="text/javascript">
+  new Vue({
+    el:'#test',
+    data:{
+      searchName:'',
+      orderType:0, //0代表原本,1代表升序,2代表降序
+      persons: [
+        { name:'Tom',age:18},
+        { name:'Jack',age:16},
+        { name:'Bob',age:19},
+        { name:'Rose',age:17}
+      ]
+    },
+    computed:{
+      filterPersons(){
+        //得到相关的数据
+        const {searchName,persons,orderType}=this
+
+        /*ECMA6
+        * let允许你声明一个作用域被限制在块级中的变量、语句或者表达式。
+        * 与var关键字不同的是，var声明的变量只能是全局或者整个函数块的。
+        * */
+        //过滤后最终需要显示的数组
+        let fPersons;
+
+        /*=> ECMA6
+        * filter() 方法创建一个新的数组，新数组中的元素是通过检查指定数组中符合条件的所有元素。
+            注意： filter() 不会对空数组进行检测。
+            注意： filter() 不会改变原始数组。
+        * */
+        //对persons进行过滤
+        fPersons=persons.filter(p=>p.name.indexOf(searchName)!==-1)
+        
+        //排序
+        if(orderType!==0){
+          fPersons.sort(function (p1,p2) {//如果返回负数p1在前,返回正数p2在前
+            //1代表升序,2代表降序
+            if(orderType===2){
+              return p2.age-p1.age
+            } else {
+              return p1.age-p2.age
+            }
+
+
+          })
+        }
+        return fPersons
+      }
+    },
+
+    methods:{
+      setorderType(orderType){
+        this.orderType=orderType
+      }
+    }
+  })
+</script>
+</body>
+</html>
