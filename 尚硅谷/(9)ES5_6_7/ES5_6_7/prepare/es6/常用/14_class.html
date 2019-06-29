@@ -15,33 +15,48 @@
 6. 重写从父类中继承的一般方法
 -->
 <script type="text/javascript">
-    class Person {
-        //调用类的构造方法
-        constructor(name, age){
-            this.name = name;
-            this.age = age;
+  /* function Person(name,age) {
+     this.name = name;
+     this.age = age;
+   }
+   let person = new Person('BTS',6);
+   console.log(person);*/
 
-        }
-        //定义一般的方法
-        showName(){
-            console.log(this.name, this.age);
-        }
+  //定义一个人物的类
+  class Person {
+    //类的构造方法
+    constructor(name, age) {
+      this.name = name;
+      this.age = age;
     }
-    let person = new Person('kobe', 39);
-    console.log(person, person.showName());
 
-    //定义一个子类
-    class StrPerson extends Person{
-        constructor(name, age, salary){
-            super(name, age);//调用父类的构造方法
-            this.salary = salary;
-        }
-        showName(){//在子类自身定义方法
-            console.log(this.name, this.age, this.salary);
-        }
+    //类的一般方法
+    showName() {
+      console.log('调用父类的方法');
+      console.log(this.name, this.age);
     }
-    let str = new StrPerson('weide', 38, 1000000000);
-    console.log(str);
-    str.showName();
+  }
+
+  let person = new Person('army', 6);
+  console.log(person);
+  person.showName();
+
+  //子类
+  class StarPerson extends Person {
+    constructor(name, age, salary) {
+      super(name, age);    //调用父类的构造方法
+      this.salary = salary;
+    };
+    //父类的方法重写
+    showName() {
+      console.log('调用子类的方法');
+      console.log(this.name, this.age, this.salary);
+    }
+  }
+
+  let p1 = new StarPerson('cat', 20, 10000);
+  console.log(p1);
+  p1.showName();
+
 </script>
 </html>

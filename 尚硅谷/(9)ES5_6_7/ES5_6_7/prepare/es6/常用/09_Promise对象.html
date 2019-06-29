@@ -67,7 +67,7 @@
         console.log(error,'失败了！！！');
     })*/
 
-  //定义获取新闻的功能函数:Ajax请求
+  //定义获取新闻的功能函数:原生Ajax请求
   function getNews(url) {
     let promise = new Promise((resolve, reject) => {
       //状态：初始化
@@ -77,9 +77,9 @@
 
       //2.绑定监听 readyState
       xmlHttp.onreadystatechange = function () {
-        if (xmlHttp.readyState === 4){//请求成功
-          if (xmlHttp.status == 200){
-            console.log(xmlHttp.responseText);
+        if (xmlHttp.readyState === 4){
+          if (xmlHttp.status == 200){//请求成功
+            // console.log(xmlHttp.responseText);
             //修改状态
             resolve(xmlHttp.responseText);   //修改promise的状态为成功的状态
           }else{//请求失败
@@ -88,18 +88,28 @@
         }
       };
 
-      //3.open设置请求的方式以及url
+      //3.open设置请求的方式以及url,true代表异步,false代表同步
       xmlHttp.open('GET',url,true);
       //4.发送
       xmlHttp.send();
-    })
+    });
     return promise;
   }
 
   getNews('http://localhost:3000/news?id=2')
-    .then((data) => {
+    .then((data) => {//成功
       console.log(data);
-    },(error) => {
+      //发送请求获取评论内容准备url
+      let commentsUrl = JSON.parse(data).commentsUrl;
+      let url = "http://localhost:3000" + commentsUrl;
+      //发送请求
+      return getNews(url);
+    },(error) => {//失败
+      console.log(error);
+    })
+    .then((data)=>{
+      console.log(data);
+    },(error)=>{
       console.log(error);
     })
 

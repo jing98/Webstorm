@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/尚硅谷" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/尚硅谷-Vue项目-硅谷外卖" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/尚硅谷-Vue项目-硅谷外卖/gshop-client" vcs="Git" />

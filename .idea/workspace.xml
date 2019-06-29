@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f782a041-1f08-43ab-86dc-ea9761173ff9" name="Default Changelist" comment="" />
+    <list default="true" id="f782a041-1f08-43ab-86dc-ea9761173ff9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/尚硅谷/(9)ES5_6_7/ES5_6_7/prepare/es6/常用/09_Promise对象.html" beforeDir="false" afterPath="$PROJECT_DIR$/尚硅谷/(9)ES5_6_7/ES5_6_7/prepare/es6/常用/09_Promise对象.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/尚硅谷/(9)ES5_6_7/ES5_6_7/prepare/es6/常用/10_Symbol.html" beforeDir="false" afterPath="$PROJECT_DIR$/尚硅谷/(9)ES5_6_7/ES5_6_7/prepare/es6/常用/10_Symbol.html" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -15,7 +20,7 @@
     <favorites_list name="Webstorm代码" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -38,22 +43,11 @@
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="SYNC" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/尚硅谷" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/尚硅谷-Vue项目-硅谷外卖/gshop-client/src/pages/MSite/MSite.vue" />
-        <option value="$PROJECT_DIR$/尚硅谷/(21)VUE/VueDemo/src/components/HelloWorld.vue" />
-        <option value="$PROJECT_DIR$/尚硅谷/(21)VUE/VueDemo/.eslintrc.js" />
-        <option value="$PROJECT_DIR$/尚硅谷/(21)VUE/VueDemo/.eslintignore" />
-        <option value="$PROJECT_DIR$/尚硅谷/(21)VUE/VueDemo/.babelrc" />
-        <option value="$PROJECT_DIR$/尚硅谷/(21)VUE/VueDemo/src/components/Add.vue" />
-        <option value="$PROJECT_DIR$/尚硅谷/(21)VUE/VueDemo/src/components/Item.vue" />
-        <option value="$PROJECT_DIR$/尚硅谷/(21)VUE/VueDemo/src/components/List.vue" />
-        <option value="$PROJECT_DIR$/尚硅谷/(21)VUE/VueDemo/static/todos_page/index.html" />
-        <option value="$PROJECT_DIR$/尚硅谷/(21)VUE/VueDemo/src/base.css" />
-        <option value="$PROJECT_DIR$/尚硅谷-Vue项目-硅谷外卖/gshop-client/src/store/state.js" />
         <option value="$PROJECT_DIR$/尚硅谷-Vue项目-硅谷外卖/gshop-client/src/api/index.js" />
         <option value="$PROJECT_DIR$/黑马/22 Vue基础/Vue项目/VueDemo/index.html" />
         <option value="$PROJECT_DIR$/黑马/22 Vue基础/Vue项目/VueDemo/src/router.js" />
@@ -94,6 +88,17 @@
         <option value="$PROJECT_DIR$/尚硅谷/(21)VUE/VuexTest/src/store/mutation-types.js" />
         <option value="$PROJECT_DIR$/尚硅谷/(21)VUE/VuexTest/src/store/mutations.js" />
         <option value="$PROJECT_DIR$/尚硅谷/(21)VUE/VuexTest/src/store/state.js" />
+        <option value="$PROJECT_DIR$/尚硅谷/(9)ES5_6_7/ES5_6_7/prepare/es6/常用/09_Promise对象.html" />
+        <option value="$PROJECT_DIR$/尚硅谷/(9)ES5_6_7/ES5_6_7/prepare/es6/常用/10_Symbol.html" />
+        <option value="$PROJECT_DIR$/尚硅谷/(9)ES5_6_7/ES5_6_7/prepare/es6/常用/11_Iterator遍历器.html" />
+        <option value="$PROJECT_DIR$/尚硅谷/(9)ES5_6_7/ES5_6_7/prepare/es6/常用/12_Generator函数.html" />
+        <option value="$PROJECT_DIR$/尚硅谷/(9)ES5_6_7/ES5_6_7/prepare/es6/常用/13_async函数.html" />
+        <option value="$PROJECT_DIR$/尚硅谷/(9)ES5_6_7/ES5_6_7/prepare/es6/常用/14_class.html" />
+        <option value="$PROJECT_DIR$/尚硅谷/(9)ES5_6_7/ES5_6_7/prepare/es6/其它/01_字符串扩展.html" />
+        <option value="$PROJECT_DIR$/尚硅谷/(9)ES5_6_7/ES5_6_7/prepare/es6/其它/02_数值扩展.html" />
+        <option value="$PROJECT_DIR$/尚硅谷/(9)ES5_6_7/ES5_6_7/prepare/es6/其它/03_数组扩展.html" />
+        <option value="$PROJECT_DIR$/尚硅谷/(9)ES5_6_7/ES5_6_7/prepare/es6/其它/04_对象扩展.html" />
+        <option value="$PROJECT_DIR$/尚硅谷/(9)ES5_6_7/ES5_6_7/prepare/es6/其它/04_深度克隆.html" />
       </list>
     </option>
   </component>
@@ -103,7 +108,7 @@
     <other-services-enabled>true</other-services-enabled>
     <auto-save>true</auto-save>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="622" />
     <option name="y" value="1" />
     <option name="width" value="747" />
@@ -127,6 +132,51 @@
               <item name="Webstorm代码" type="b2602c69:ProjectViewProjectNode" />
               <item name="Webstorm代码" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Webstorm代码" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Webstorm代码" type="462c0819:PsiDirectoryNode" />
+              <item name="尚硅谷" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Webstorm代码" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Webstorm代码" type="462c0819:PsiDirectoryNode" />
+              <item name="尚硅谷" type="462c0819:PsiDirectoryNode" />
+              <item name="(9)ES5_6_7" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Webstorm代码" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Webstorm代码" type="462c0819:PsiDirectoryNode" />
+              <item name="尚硅谷" type="462c0819:PsiDirectoryNode" />
+              <item name="(9)ES5_6_7" type="462c0819:PsiDirectoryNode" />
+              <item name="ES5_6_7" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Webstorm代码" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Webstorm代码" type="462c0819:PsiDirectoryNode" />
+              <item name="尚硅谷" type="462c0819:PsiDirectoryNode" />
+              <item name="(9)ES5_6_7" type="462c0819:PsiDirectoryNode" />
+              <item name="ES5_6_7" type="462c0819:PsiDirectoryNode" />
+              <item name="prepare" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Webstorm代码" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Webstorm代码" type="462c0819:PsiDirectoryNode" />
+              <item name="尚硅谷" type="462c0819:PsiDirectoryNode" />
+              <item name="(9)ES5_6_7" type="462c0819:PsiDirectoryNode" />
+              <item name="ES5_6_7" type="462c0819:PsiDirectoryNode" />
+              <item name="prepare" type="462c0819:PsiDirectoryNode" />
+              <item name="es6" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Webstorm代码" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Webstorm代码" type="462c0819:PsiDirectoryNode" />
+              <item name="尚硅谷" type="462c0819:PsiDirectoryNode" />
+              <item name="(9)ES5_6_7" type="462c0819:PsiDirectoryNode" />
+              <item name="ES5_6_7" type="462c0819:PsiDirectoryNode" />
+              <item name="prepare" type="462c0819:PsiDirectoryNode" />
+              <item name="es6" type="462c0819:PsiDirectoryNode" />
+              <item name="其它" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -136,10 +186,12 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="add_unversioned_files" value="true&#10;E:/WebStorm 2019.1.2/Webstorm代码/尚硅谷/(21)VUE/VueDemo/dist/index.html" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="CSS" />
     <property name="editor.config.ad.shown" value="true" />
+    <property name="ignore_missing_gitignore" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="6.10.3" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/尚硅谷/(21)VUE/VuexTest" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
@@ -274,6 +326,8 @@
       <workItem from="1561168359197" duration="25351000" />
       <workItem from="1561209841813" duration="164000" />
       <workItem from="1561254749344" duration="919000" />
+      <workItem from="1561635277634" duration="7520000" />
+      <workItem from="1561786363702" duration="18763000" />
     </task>
     <task id="LOCAL-00001" summary="案例：品牌列表">
       <created>1559733633534</created>
@@ -517,7 +571,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="428347000" />
+    <option name="totallyTimeSpent" value="454630000" />
   </component>
   <component name="TodoView" selected-index="4">
     <todo-panel id="selected-file">
@@ -529,9 +583,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="622" y="1" width="747" height="735" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.495" visible="true" weight="0.203125" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.495" weight="0.4315476" />
       <window_info id="Structure" order="1" sideWeight="0.505" side_tool="true" weight="0.41744965" />
       <window_info id="Favorites" order="2" side_tool="true" weight="0.32885906" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -543,7 +597,7 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32459018" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32786885" />
-      <window_info anchor="bottom" auto_hide="true" id="Terminal" order="9" sideWeight="0.49925596" weight="0.58360654" />
+      <window_info anchor="bottom" auto_hide="true" id="Terminal" order="9" sideWeight="0.49925596" weight="0.56393445" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50074404" side_tool="true" weight="0.16306156" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32899022" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -601,90 +655,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/尚硅谷/(21)VUE/VueDemo/build/webpack.base.conf.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1404" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/尚硅谷/(21)VUE/mvvm-master/VueSource/原理图.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/尚硅谷/(21)VUE/VueDemo/src_ajax/App.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-858" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/尚硅谷/(21)VUE/VueDemo/src_ajax/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/尚硅谷/(21)VUE/VueDemo/src/store.js" />
-    <entry file="file://$PROJECT_DIR$/尚硅谷/(21)VUE/VueDemo/src/App1.vue" />
-    <entry file="file://$PROJECT_DIR$/尚硅谷/(21)VUE/笔记总结/vueDemo_README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-3592" />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/尚硅谷/(21)VUE/笔记总结/vueSource_README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-2184" />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/尚硅谷/(21)VUE/笔记总结/vuex_README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="650">
-            <caret line="25" column="18" lean-forward="true" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/尚硅谷/(21)VUE/VueDemo/src_todos2/util/storageUtil.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/尚硅谷/(21)VUE/VueDemo/src_todos1/base.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-41" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/尚硅谷/(21)VUE/VueDemo/src/base.css" />
-    <entry file="file://$PROJECT_DIR$/尚硅谷/(21)VUE/VueDemo/src/components/TodoFooter.vue" />
-    <entry file="file://$PROJECT_DIR$/尚硅谷/(21)VUE/VueDemo/src_todos2/components/TodoItem.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="349">
-          <caret line="50" selection-start-line="50" selection-end-line="84" selection-end-column="8" />
-          <folding>
-            <element signature="n#style#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/尚硅谷/(21)VUE/VueDemo/src/components/TodoList.vue" />
-    <entry file="file://$PROJECT_DIR$/尚硅谷/(21)VUE/VueDemo/src/store/index.js" />
-    <entry file="file://$PROJECT_DIR$/尚硅谷/(21)VUE/VueDemo/src/store/state.js" />
-    <entry file="file://$PROJECT_DIR$/尚硅谷/(21)VUE/VueDemo/src_todos1/App.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1404" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/尚硅谷/(21)VUE/VueDemo/src/main.js" />
     <entry file="file://$PROJECT_DIR$/尚硅谷/(21)VUE/VueDemo/src/util/storageUtil.js" />
     <entry file="file://$PROJECT_DIR$/尚硅谷/(21)VUE/VueDemo/src/components/TodoHeader.vue" />
@@ -808,6 +778,119 @@
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/尚硅谷/(9)ES5_6_7/ES5_6_7/prepare/es5/05_Function扩展.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-15" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/尚硅谷/(9)ES5_6_7/ES5_6_7/prepare/es5/03_1_Object扩展.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1159" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/尚硅谷/(9)ES5_6_7/ES5_6_7/prepare/es5/02_JSON对象.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-275" />
+      </provider>
+    </entry>
+    <entry file="file://E:/myweb/ajax/cross/整体封装.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="67" column="29" selection-start-line="67" selection-start-column="29" selection-end-line="67" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/尚硅谷/(9)ES5_6_7/ES5_6_7/prepare/es6/常用/02_const关键字.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/尚硅谷/(9)ES5_6_7/ES5_6_7/prepare/es6/常用/01_let关键字.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-234" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/尚硅谷/(9)ES5_6_7/ES5_6_7/prepare/es6/常用/09_promise过程分析.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/尚硅谷/(9)ES5_6_7/ES5_6_7/prepare/es6/常用/09_Promise对象.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="52" column="23" selection-start-line="52" selection-start-column="23" selection-end-line="52" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/尚硅谷/(9)ES5_6_7/ES5_6_7/prepare/es6/常用/10_Symbol.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-41">
+          <caret line="35" column="26" lean-forward="true" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/尚硅谷/(9)ES5_6_7/ES5_6_7/prepare/es6/常用/11_Iterator遍历器.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="94" column="22" lean-forward="true" selection-start-line="94" selection-start-column="22" selection-end-line="94" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/尚硅谷/(9)ES5_6_7/ES5_6_7/prepare/es6/常用/12_Generator函数.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1926">
+          <caret line="84" column="5" lean-forward="true" selection-start-line="84" selection-start-column="5" selection-end-line="84" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/尚硅谷/(9)ES5_6_7/ES5_6_7/prepare/es6/常用/13_async函数.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="72" column="67" selection-start-line="72" selection-start-column="67" selection-end-line="72" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/尚硅谷/(9)ES5_6_7/ES5_6_7/prepare/es6/常用/14_class.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/尚硅谷/(9)ES5_6_7/ES5_6_7/prepare/es6/常用/15_Module.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/尚硅谷/(9)ES5_6_7/ES5_6_7/prepare/es6/其它/01_字符串扩展.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/尚硅谷/(9)ES5_6_7/ES5_6_7/prepare/es6/其它/02_数值扩展.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="35" column="40" lean-forward="true" selection-start-line="35" selection-start-column="40" selection-end-line="35" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/尚硅谷/(9)ES5_6_7/ES5_6_7/prepare/es6/其它/03_数组扩展.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" column="6" lean-forward="true" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/尚硅谷/(9)ES5_6_7/ES5_6_7/prepare/es6/其它/04_对象扩展.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/尚硅谷/(9)ES5_6_7/ES5_6_7/prepare/es6/其它/04_深度克隆.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="172" column="21" selection-start-line="172" selection-start-column="21" selection-end-line="172" selection-end-column="21" />
         </state>
       </provider>
     </entry>
