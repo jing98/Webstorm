@@ -41,13 +41,14 @@
 
 <style scoped>
   .todo-header .h {
-    height: 50px;
+    height: 60px;
     background-color: green;
   }
 
   h3 {
+    margin: 0;
     text-align: center;
-    line-height: 50px;
+    line-height: 60px;
     color: white;
   }
 
