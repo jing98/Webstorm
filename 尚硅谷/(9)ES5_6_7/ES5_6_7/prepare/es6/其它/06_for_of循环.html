@@ -6,39 +6,32 @@
 </head>
 <body>
 
-<!--
-for(let value of target){}循环遍历
-  1. 遍历数组
-  2. 遍历Set
-  3. 遍历Map
-  4. 遍历字符串
-  5. 遍历伪数组
--->
+  <!--
+  for(let value of target){}循环遍历
+    1. 遍历数组
+    2. 遍历Set
+    3. 遍历Map
+    4. 遍历字符串
+    5. 遍历伪数组
+  -->
 
-<button>按钮1</button>
-<button>按钮2</button>
-<button>按钮3</button>
+  <button>按钮1</button>
+  <button>按钮2</button>
+  <button>按钮3</button>
 
-<script type="text/javascript">
+  <script type="text/javascript">
 
-    let arr = [1,2,3,4,5];
-    for(let num of arr){
-        console.log(num);
+    //数组去重
+    let arr = [1, 2, 3, 4, 5, 6, 2];
+    let arr1 = arr;
+    arr = [];
+    let set = new Set(arr1);
+    for (let i of set) {
+     arr.push(i);
     }
-    let set = new Set([1,2,3,4,5]);
-    for(let num of set){
-        console.log(num);
-    }
-    let str = 'abcdefg';
-    for(let num of str){
-        console.log(num);
-    }
-    let btns = document.getElementsByTagName('button');
-    for(let btn of btns){
-        console.log(btn.innerHTML);
-    }
+    console.log(arr);
 
-</script>
+  </script>
 </body>
 
 </html>

@@ -1,11 +1,85 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f782a041-1f08-43ab-86dc-ea9761173ff9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="f782a041-1f08-43ab-86dc-ea9761173ff9" name="Default Changelist" comment="VuexTest">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/lenovo.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/尚硅谷/(18)H5实战/其他/offsetParent_初始版.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/尚硅谷/(18)H5实战/其他/兼容性问题.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/尚硅谷/(18)H5实战/其他/控制宽高做动画.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/尚硅谷/(18)H5实战/项目/img/about1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/尚硅谷/(18)H5实战/项目/img/about2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/尚硅谷/(18)H5实战/项目/img/about3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/尚硅谷/(18)H5实战/项目/img/about4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/尚硅谷/(18)H5实战/项目/img/apcoa.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/尚硅谷/(18)H5实战/项目/img/audio.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/尚硅谷/(18)H5实战/项目/img/bg1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/尚硅谷/(18)H5实战/项目/img/bg2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/尚硅谷/(18)H5实战/项目/img/bg2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/尚硅谷/(18)H5实战/项目/img/bg3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/尚硅谷/(18)H5实战/项目/img/bg4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/尚硅谷/(18)H5实战/项目/img/bg5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/尚硅谷/(18)H5实战/项目/img/binoli.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/尚硅谷/(18)H5实战/项目/img/bks.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/尚硅谷/(18)H5实战/项目/img/greenLine.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/尚硅谷/(18)H5实战/项目/img/gu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/尚硅谷/(18)H5实战/项目/img/hlx.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/尚硅谷/(18)H5实战/项目/img/home.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/尚硅谷/(18)H5实战/项目/img/home_gruen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/尚硅谷/(18)H5实战/项目/img/lb1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/尚硅谷/(18)H5实战/项目/img/lb2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/尚硅谷/(18)H5实战/项目/img/lb3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/尚硅谷/(18)H5实战/项目/img/lb4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/尚硅谷/(18)H5实战/项目/img/lbs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/尚硅谷/(18)H5实战/项目/img/leonberg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/尚硅谷/(18)H5实战/项目/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/尚硅谷/(18)H5实战/项目/img/menuIndicator.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/尚硅谷/(18)H5实战/项目/img/musicoff.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/尚硅谷/(18)H5实战/项目/img/musicon.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/尚硅谷/(18)H5实战/项目/img/pcwelt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/尚硅谷/(18)H5实战/项目/img/pencel1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/尚硅谷/(18)H5实战/项目/img/pencel2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/尚硅谷/(18)H5实战/项目/img/pencel3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/尚硅谷/(18)H5实战/项目/img/plane1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/尚硅谷/(18)H5实战/项目/img/plane2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/尚硅谷/(18)H5实战/项目/img/plane3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/尚硅谷/(18)H5实战/项目/img/plus_row.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/尚硅谷/(18)H5实战/项目/img/robot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/尚硅谷/(18)H5实战/项目/img/tata.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/尚硅谷/(18)H5实战/项目/img/team.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/尚硅谷/(18)H5实战/项目/img/worksimg1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/尚硅谷/(18)H5实战/项目/img/worksimg2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/尚硅谷/(18)H5实战/项目/img/worksimg3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/尚硅谷/(18)H5实战/项目/img/worksimg4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/尚硅谷/(18)H5实战/项目/img/zoomico.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/尚硅谷/(18)H5实战/项目/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/尚硅谷/(18)H5实战/项目/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/尚硅谷/(18)H5实战/项目/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/尚硅谷/(18)H5实战/项目/参数/00_骨架参数.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/尚硅谷/(18)H5实战/项目/参数/01_第三屏.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/尚硅谷/(18)H5实战/项目/参数/02_第二屏.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/尚硅谷/(18)H5实战/项目/参数/03_第一屏.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/尚硅谷/(18)H5实战/项目/参数/04_第四屏.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/尚硅谷/(18)H5实战/项目/参数/05_第五屏.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/尚硅谷/(18)H5实战/项目/参数/06_出入场.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/尚硅谷/(18)H5实战/项目/参数/07_开机动画.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/尚硅谷/(18)H5实战/项目/参数/day14.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/尚硅谷/(18)H5实战/项目/参数/day15.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/尚硅谷/(21)VUE/VueDemo/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/尚硅谷/(21)VUE/VueDemo/src/base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/尚硅谷/(21)VUE/VueDemo/src/components/TodoHeader.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/尚硅谷/(21)VUE/VueDemo/src/components/TodoItem.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/尚硅谷/(21)VUE/VueDemo/src/components/TodoList.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/尚硅谷/(21)VUE/VueDemo/src/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/尚硅谷/(9)ES5_6_7/ES5_6_7/prepare/es6/常用/09_Promise对象.html" beforeDir="false" afterPath="$PROJECT_DIR$/尚硅谷/(9)ES5_6_7/ES5_6_7/prepare/es6/常用/09_Promise对象.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/尚硅谷/(9)ES5_6_7/ES5_6_7/prepare/es6/常用/10_Symbol.html" beforeDir="false" afterPath="$PROJECT_DIR$/尚硅谷/(9)ES5_6_7/ES5_6_7/prepare/es6/常用/10_Symbol.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/尚硅谷-Vue项目-硅谷外卖/gshop-client_final/build/webpack.base.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/尚硅谷-Vue项目-硅谷外卖/gshop-client_final/build/webpack.base.conf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/尚硅谷-Vue项目-硅谷外卖/gshop-client_pages/js/swiper.js" beforeDir="false" afterPath="$PROJECT_DIR$/尚硅谷-Vue项目-硅谷外卖/gshop-client_pages/js/swiper.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/尚硅谷/(21)VUE/VueDemo/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/尚硅谷/(21)VUE/VueDemo/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/尚硅谷/(21)VUE/VuexTest/build/webpack.base.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/尚硅谷/(21)VUE/VuexTest/build/webpack.base.conf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/尚硅谷/(9)ES5_6_7/ES5_6_7/prepare/es6/其它/05_Set和Map数据结构.html" beforeDir="false" afterPath="$PROJECT_DIR$/尚硅谷/(9)ES5_6_7/ES5_6_7/prepare/es6/其它/05_Set和Map数据结构.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/尚硅谷/(9)ES5_6_7/ES5_6_7/prepare/es6/其它/06_for_of循环.html" beforeDir="false" afterPath="$PROJECT_DIR$/尚硅谷/(9)ES5_6_7/ES5_6_7/prepare/es6/其它/06_for_of循环.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/尚硅谷/(9)ES5_6_7/ES5_6_7/prepare/es7/ES7.html" beforeDir="false" afterPath="$PROJECT_DIR$/尚硅谷/(9)ES5_6_7/ES5_6_7/prepare/es7/ES7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/黑马/22 Vue基础/Vue项目/build/webpack.base.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/黑马/22 Vue基础/Vue项目/build/webpack.base.conf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/黑马/22 Vue基础/Vue项目/test/unit/jest.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/黑马/22 Vue基础/Vue项目/test/unit/jest.conf.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,7 +94,7 @@
     <favorites_list name="Webstorm代码" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -28,17 +102,18 @@
         <option value="tsconfig.json" />
         <option value="package.json" />
         <option value="php" />
-        <option value="Vue Single File Component" />
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
         <option value="Vue" />
         <option value="JavaScript File" />
+        <option value="Vue Single File Component" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
       <find>shop_container</find>
+      <find>img</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -48,32 +123,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/尚硅谷-Vue项目-硅谷外卖/gshop-client/src/api/index.js" />
-        <option value="$PROJECT_DIR$/黑马/22 Vue基础/Vue项目/VueDemo/index.html" />
-        <option value="$PROJECT_DIR$/黑马/22 Vue基础/Vue项目/VueDemo/src/router.js" />
-        <option value="$PROJECT_DIR$/黑马/22 Vue基础/Vue项目/VueDemo/src/App.vue" />
-        <option value="$PROJECT_DIR$/黑马/22 Vue基础/Vue项目/config/index.js" />
-        <option value="$PROJECT_DIR$/黑马/22 Vue基础/Vue项目/src/App.vue" />
-        <option value="$PROJECT_DIR$/黑马/22 Vue基础/Vue项目/src/router/index.js" />
-        <option value="$PROJECT_DIR$/尚硅谷/(21)VUE/VueDemo/src/components/TodoHeader.vue" />
-        <option value="$PROJECT_DIR$/尚硅谷/(21)VUE/VueDemo/README.md" />
-        <option value="$PROJECT_DIR$/尚硅谷/(21)VUE/VueDemo/src/components/TodoFooter.vue" />
-        <option value="$PROJECT_DIR$/尚硅谷/(21)VUE/VueDemo/src/util/StorageUtil.js" />
-        <option value="$PROJECT_DIR$/尚硅谷/(21)VUE/VueDemo/src/components/Search.vue" />
-        <option value="$PROJECT_DIR$/尚硅谷/(21)VUE/VueDemo/src/components/Main.vue" />
-        <option value="$PROJECT_DIR$/尚硅谷/(21)VUE/VueDemo/src/views/About.vue" />
-        <option value="$PROJECT_DIR$/尚硅谷/(21)VUE/VueDemo/src/views/Home.vue" />
-        <option value="$PROJECT_DIR$/尚硅谷/(21)VUE/VueDemo/src/router/index.js" />
-        <option value="$PROJECT_DIR$/尚硅谷/(21)VUE/VueDemo/src/store.js" />
-        <option value="$PROJECT_DIR$/尚硅谷/(21)VUE/VueDemo/src/components/TodoList.vue" />
-        <option value="$PROJECT_DIR$/尚硅谷/(21)VUE/VueDemo/src/components/TodoItem.vue" />
-        <option value="$PROJECT_DIR$/尚硅谷/(21)VUE/VueDemo/src/store/index.js" />
-        <option value="$PROJECT_DIR$/尚硅谷/(21)VUE/VueDemo/src/main.js" />
         <option value="$PROJECT_DIR$/尚硅谷/(21)VUE/VueDemo/src/store/getters.js" />
         <option value="$PROJECT_DIR$/尚硅谷/(21)VUE/VueDemo/src/store/actions.js" />
         <option value="$PROJECT_DIR$/尚硅谷/(21)VUE/VueDemo/src/store/state.js" />
         <option value="$PROJECT_DIR$/尚硅谷/(21)VUE/VueDemo/src/store/mutations.js" />
-        <option value="$PROJECT_DIR$/尚硅谷/(21)VUE/VueDemo/src/App.vue" />
         <option value="$PROJECT_DIR$/尚硅谷/(21)VUE/VueDemo/index.html" />
         <option value="$PROJECT_DIR$/尚硅谷/(21)VUE/VuexTest/src/components/TodoHeader.vue" />
         <option value="$PROJECT_DIR$/尚硅谷/(21)VUE/VuexTest/src/components/TodoItem.vue" />
@@ -99,6 +152,28 @@
         <option value="$PROJECT_DIR$/尚硅谷/(9)ES5_6_7/ES5_6_7/prepare/es6/其它/03_数组扩展.html" />
         <option value="$PROJECT_DIR$/尚硅谷/(9)ES5_6_7/ES5_6_7/prepare/es6/其它/04_对象扩展.html" />
         <option value="$PROJECT_DIR$/尚硅谷/(9)ES5_6_7/ES5_6_7/prepare/es6/其它/04_深度克隆.html" />
+        <option value="$PROJECT_DIR$/尚硅谷/(9)ES5_6_7/ES5_6_7/prepare/es6/其它/05_Set和Map数据结构.html" />
+        <option value="$PROJECT_DIR$/尚硅谷/(9)ES5_6_7/ES5_6_7/prepare/es6/其它/06_for_of循环.html" />
+        <option value="$PROJECT_DIR$/尚硅谷/(9)ES5_6_7/ES5_6_7/prepare/es7/ES7.html" />
+        <option value="$PROJECT_DIR$/尚硅谷/(18)H5实战/兼容性问题.html" />
+        <option value="$PROJECT_DIR$/尚硅谷/(18)H5实战/index.html" />
+        <option value="$PROJECT_DIR$/尚硅谷/(18)H5实战/index.css" />
+        <option value="$PROJECT_DIR$/尚硅谷/(18)H5实战/其他/用宽度做动画.html" />
+        <option value="$PROJECT_DIR$/尚硅谷/(18)H5实战/项目/参数/day14.md" />
+        <option value="$PROJECT_DIR$/尚硅谷/(18)H5实战/项目/index.js" />
+        <option value="$PROJECT_DIR$/尚硅谷/(18)H5实战/项目/index.html" />
+        <option value="$PROJECT_DIR$/尚硅谷/(18)H5实战/项目/index.css" />
+        <option value="$PROJECT_DIR$/尚硅谷/(21)VUE/VueDemo/src/components/todoHeader.vue" />
+        <option value="$PROJECT_DIR$/尚硅谷/(21)VUE/VueDemo/build/webpack.base.conf.js" />
+        <option value="$PROJECT_DIR$/尚硅谷/(21)VUE/VueDemo/src/main.js" />
+        <option value="$PROJECT_DIR$/尚硅谷/(21)VUE/VueDemo/src_todos1/base.css" />
+        <option value="$PROJECT_DIR$/尚硅谷/(21)VUE/VueDemo/src_todos1/components/TodoItem.vue" />
+        <option value="$PROJECT_DIR$/尚硅谷/(21)VUE/VueDemo/src_todos1/components/TodoHeader.vue" />
+        <option value="$PROJECT_DIR$/尚硅谷/(21)VUE/VueDemo/src/base.css" />
+        <option value="$PROJECT_DIR$/尚硅谷/(21)VUE/VueDemo/src/components/TodoList.vue" />
+        <option value="$PROJECT_DIR$/尚硅谷/(21)VUE/VueDemo/src/components/TodoHeader.vue" />
+        <option value="$PROJECT_DIR$/尚硅谷/(21)VUE/VueDemo/src/components/TodoItem.vue" />
+        <option value="$PROJECT_DIR$/尚硅谷/(21)VUE/VueDemo/src/App.vue" />
       </list>
     </option>
   </component>
@@ -108,10 +183,10 @@
     <other-services-enabled>true</other-services-enabled>
     <auto-save>true</auto-save>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="622" />
-    <option name="y" value="1" />
-    <option name="width" value="747" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="773" />
     <option name="height" value="735" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -135,47 +210,13 @@
             <path>
               <item name="Webstorm代码" type="b2602c69:ProjectViewProjectNode" />
               <item name="Webstorm代码" type="462c0819:PsiDirectoryNode" />
-              <item name="尚硅谷" type="462c0819:PsiDirectoryNode" />
+              <item name="VueDemo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Webstorm代码" type="b2602c69:ProjectViewProjectNode" />
               <item name="Webstorm代码" type="462c0819:PsiDirectoryNode" />
-              <item name="尚硅谷" type="462c0819:PsiDirectoryNode" />
-              <item name="(9)ES5_6_7" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Webstorm代码" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Webstorm代码" type="462c0819:PsiDirectoryNode" />
-              <item name="尚硅谷" type="462c0819:PsiDirectoryNode" />
-              <item name="(9)ES5_6_7" type="462c0819:PsiDirectoryNode" />
-              <item name="ES5_6_7" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Webstorm代码" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Webstorm代码" type="462c0819:PsiDirectoryNode" />
-              <item name="尚硅谷" type="462c0819:PsiDirectoryNode" />
-              <item name="(9)ES5_6_7" type="462c0819:PsiDirectoryNode" />
-              <item name="ES5_6_7" type="462c0819:PsiDirectoryNode" />
-              <item name="prepare" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Webstorm代码" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Webstorm代码" type="462c0819:PsiDirectoryNode" />
-              <item name="尚硅谷" type="462c0819:PsiDirectoryNode" />
-              <item name="(9)ES5_6_7" type="462c0819:PsiDirectoryNode" />
-              <item name="ES5_6_7" type="462c0819:PsiDirectoryNode" />
-              <item name="prepare" type="462c0819:PsiDirectoryNode" />
-              <item name="es6" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Webstorm代码" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Webstorm代码" type="462c0819:PsiDirectoryNode" />
-              <item name="尚硅谷" type="462c0819:PsiDirectoryNode" />
-              <item name="(9)ES5_6_7" type="462c0819:PsiDirectoryNode" />
-              <item name="ES5_6_7" type="462c0819:PsiDirectoryNode" />
-              <item name="prepare" type="462c0819:PsiDirectoryNode" />
-              <item name="es6" type="462c0819:PsiDirectoryNode" />
-              <item name="其它" type="462c0819:PsiDirectoryNode" />
+              <item name="VueDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -193,7 +234,7 @@
     <property name="editor.config.ad.shown" value="true" />
     <property name="ignore_missing_gitignore" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="6.10.3" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/尚硅谷/(21)VUE/VuexTest" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.jscs" value="true" />
@@ -208,22 +249,22 @@
     <property name="node.js.selected.package.standard" value="" />
     <property name="node.js.selected.package.stylelint" value="" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\WebStorm 2019.1.2\Webstorm代码\尚硅谷\(21)VUE\VuexTest" />
-      <recent name="E:\WebStorm 2019.1.2\Webstorm代码\尚硅谷\(21)VUE" />
-      <recent name="E:\WebStorm 2019.1.2\Webstorm代码\尚硅谷\(21)VUE\VueDemo" />
-      <recent name="E:\WebStorm 2019.1.2\Webstorm代码\尚硅谷\(21)VUE\VueDemo\src\store" />
+      <recent name="E:\WebStorm 2019.1.2\Webstorm代码" />
       <recent name="E:\WebStorm 2019.1.2\Webstorm代码\尚硅谷\(21)VUE\VueDemo\src" />
+      <recent name="E:\WebStorm 2019.1.2\Webstorm代码\尚硅谷\(21)VUE\VueDemo" />
+      <recent name="E:\WebStorm 2019.1.2\Webstorm代码\尚硅谷\(18)H5实战\项目\img" />
+      <recent name="E:\WebStorm 2019.1.2\Webstorm代码\尚硅谷\(18)H5实战\项目\参数" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\WebStorm 2019.1.2\Webstorm代码\尚硅谷\(18)H5实战\项目" />
+      <recent name="E:\WebStorm 2019.1.2\Webstorm代码\尚硅谷\(18)H5实战\其他" />
       <recent name="E:\WebStorm 2019.1.2\Webstorm代码\尚硅谷\(21)VUE\VuexTest" />
       <recent name="E:\WebStorm 2019.1.2\Webstorm代码\尚硅谷\(21)VUE" />
       <recent name="E:\WebStorm 2019.1.2\Webstorm代码\尚硅谷\(21)VUE\VueDemo" />
-      <recent name="E:\WebStorm 2019.1.2\Webstorm代码\尚硅谷\(9)ES5_6_7" />
-      <recent name="E:\WebStorm 2019.1.2\Webstorm代码\练习-豆瓣东西\images\pages" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -327,7 +368,12 @@
       <workItem from="1561209841813" duration="164000" />
       <workItem from="1561254749344" duration="919000" />
       <workItem from="1561635277634" duration="7520000" />
-      <workItem from="1561786363702" duration="18763000" />
+      <workItem from="1561786363702" duration="19035000" />
+      <workItem from="1561868268824" duration="14907000" />
+      <workItem from="1561953930689" duration="24742000" />
+      <workItem from="1578445867704" duration="2410000" />
+      <workItem from="1578448471071" duration="26090000" />
+      <workItem from="1578530453197" duration="425000" />
     </task>
     <task id="LOCAL-00001" summary="案例：品牌列表">
       <created>1559733633534</created>
@@ -571,7 +617,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="454630000" />
+    <option name="totallyTimeSpent" value="523476000" />
   </component>
   <component name="TodoView" selected-index="4">
     <todo-panel id="selected-file">
@@ -583,9 +629,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="622" y="1" width="747" height="735" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.495" weight="0.4315476" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.495" visible="true" weight="0.19791667" />
       <window_info id="Structure" order="1" sideWeight="0.505" side_tool="true" weight="0.41744965" />
       <window_info id="Favorites" order="2" side_tool="true" weight="0.32885906" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -597,7 +643,7 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32459018" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32786885" />
-      <window_info anchor="bottom" auto_hide="true" id="Terminal" order="9" sideWeight="0.49925596" weight="0.56393445" />
+      <window_info anchor="bottom" auto_hide="true" id="Terminal" order="9" sideWeight="0.49925596" weight="0.5622951" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50074404" side_tool="true" weight="0.16306156" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32899022" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -655,157 +701,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/尚硅谷/(21)VUE/VueDemo/src/main.js" />
-    <entry file="file://$PROJECT_DIR$/尚硅谷/(21)VUE/VueDemo/src/util/storageUtil.js" />
-    <entry file="file://$PROJECT_DIR$/尚硅谷/(21)VUE/VueDemo/src/components/TodoHeader.vue" />
-    <entry file="file://$PROJECT_DIR$/尚硅谷/(21)VUE/VueDemo/src/components/TodoItem.vue" />
-    <entry file="file://$PROJECT_DIR$/尚硅谷/(21)VUE/VueDemo/src/App.vue" />
-    <entry file="file://$PROJECT_DIR$/尚硅谷/(21)VUE/VueDemo/src/store/actions.js" />
-    <entry file="file://$PROJECT_DIR$/尚硅谷/(21)VUE/VueDemo/src/store/getters.js" />
-    <entry file="file://$PROJECT_DIR$/尚硅谷/(21)VUE/VueDemo/src/store/mutations.js" />
-    <entry file="file://$PROJECT_DIR$/尚硅谷/(21)VUE/VueDemo/src_todos3/App.vue" />
-    <entry file="file://$PROJECT_DIR$/尚硅谷/(21)VUE/VuexTest/src-counter/Counter.vue" />
-    <entry file="file://$PROJECT_DIR$/尚硅谷/(21)VUE/VuexTest/src-counter/Counter1.vue" />
-    <entry file="file://$PROJECT_DIR$/尚硅谷/(21)VUE/VuexTest/src/vuex/mutation-types.js" />
-    <entry file="file://$PROJECT_DIR$/尚硅谷/(21)VUE/VuexTest/src/vuex/mutations.js" />
-    <entry file="file://$PROJECT_DIR$/尚硅谷/(21)VUE/VueDemo/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="15" column="16" lean-forward="true" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/尚硅谷/(21)VUE/VuexTest/src/components/TodoHeader.vue" />
-    <entry file="file://$PROJECT_DIR$/尚硅谷/(21)VUE/VueDemo/src_todos2/components/TodoFooter.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="25" column="8" lean-forward="true" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/尚硅谷/(21)VUE/VuexTest/static/css/bootstrap.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/尚硅谷/(21)VUE/VuexTest/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="6" column="25" lean-forward="true" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/尚硅谷/(21)VUE/VuexTest/src/utils/storageUtils.js" />
-    <entry file="file://$PROJECT_DIR$/尚硅谷/(21)VUE/VuexTest/src/components/TodoFooter.vue" />
-    <entry file="file://$PROJECT_DIR$/尚硅谷/(21)VUE/VuexTest/config/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="29" column="19" lean-forward="true" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/尚硅谷/(21)VUE/VuexTest/src/components/TodoList.vue" />
-    <entry file="file://$PROJECT_DIR$/尚硅谷/(21)VUE/VuexTest/build/webpack.base.conf.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/尚硅谷/(21)VUE/VuexTest/src/components/TodoItem.vue" />
-    <entry file="file://$PROJECT_DIR$/尚硅谷/(21)VUE/VuexTest/src/App.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/尚硅谷/(21)VUE/VuexTest/src/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="21" column="7" lean-forward="true" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/尚硅谷/(21)VUE/VuexTest/src/store/actions.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/尚硅谷/(21)VUE/VuexTest/src/store/getters.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/尚硅谷/(21)VUE/VuexTest/src/store/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#25#46#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/尚硅谷/(21)VUE/VuexTest/src/store/mutation-types.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/尚硅谷/(21)VUE/VuexTest/src/store/mutations.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/尚硅谷/(21)VUE/VuexTest/src/store/state.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/尚硅谷/(9)ES5_6_7/ES5_6_7/prepare/es5/05_Function扩展.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-15" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/尚硅谷/(9)ES5_6_7/ES5_6_7/prepare/es5/03_1_Object扩展.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1159" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/尚硅谷/(9)ES5_6_7/ES5_6_7/prepare/es5/02_JSON对象.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-275" />
-      </provider>
-    </entry>
-    <entry file="file://E:/myweb/ajax/cross/整体封装.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="67" column="29" selection-start-line="67" selection-start-column="29" selection-end-line="67" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/尚硅谷/(9)ES5_6_7/ES5_6_7/prepare/es6/常用/02_const关键字.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/尚硅谷/(9)ES5_6_7/ES5_6_7/prepare/es6/常用/01_let关键字.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-234" />
@@ -894,6 +789,304 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/尚硅谷/(9)ES5_6_7/ES5_6_7/prepare/es6/其它/05_Set和Map数据结构.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="42" column="21" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/尚硅谷/(9)ES5_6_7/ES5_6_7/prepare/es6/其它/06_for_of循环.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/尚硅谷/(9)ES5_6_7/ES5_6_7/prepare/es7/ES7.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="12" selection-start-line="12" selection-end-line="18" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/尚硅谷/(18)H5实战/其他/兼容性问题.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/尚硅谷/(18)H5实战/其他/offsetParent_初始版.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="13">
+            <caret line="9" column="36" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="9" selection-end-column="36" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/尚硅谷/(18)H5实战/项目/参数/00_骨架参数.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="166">
+            <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../lib/platform-impl.jar!/resources/html5-schema/html5/block.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="248" column="12" selection-start-line="248" selection-start-column="12" selection-end-line="248" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/尚硅谷/(18)H5实战/项目/参数/01_第三屏.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/尚硅谷/(18)H5实战/项目/参数/02_第二屏.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/尚硅谷/(18)H5实战/其他/控制宽高做动画.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/尚硅谷/(18)H5实战/项目/参数/day14.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor relative-caret-position="130">
+            <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/尚硅谷/(18)H5实战/项目/参数/03_第一屏.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="390">
+            <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/尚硅谷/(18)H5实战/项目/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="497">
+          <caret line="137" selection-start-line="137" selection-end-line="137" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/尚硅谷/(18)H5实战/项目/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="910">
+          <caret line="68" column="29" selection-start-line="68" selection-start-column="29" selection-end-line="68" selection-end-column="29" />
+          <folding>
+            <element signature="n#nav#0;n#div#0;n#header#0;n#section#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#li#0;n#ul#0;n#nav#0;n#div#0;n#header#0;n#section#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#li#1;n#ul#0;n#nav#0;n#div#0;n#header#0;n#section#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#li#2;n#ul#0;n#nav#0;n#div#0;n#header#0;n#section#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#li#3;n#ul#0;n#nav#0;n#div#0;n#header#0;n#section#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#li#4;n#ul#0;n#nav#0;n#div#0;n#header#0;n#section#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#ul#0;n#section#0;n#li#0;n#ul#0;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#ul#1;n#section#0;n#li#0;n#ul#0;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#li#1;n#ul#0;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#header#0;n#section#0;n#li#1;n#ul#0;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#section#0;n#li#1;n#ul#0;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#1;n#section#0;n#li#1;n#ul#0;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#div#1;n#section#0;n#li#1;n#ul#0;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#3;n#div#1;n#section#0;n#li#1;n#ul#0;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#4;n#div#1;n#section#0;n#li#1;n#ul#0;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#5;n#div#1;n#section#0;n#li#1;n#ul#0;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#6;n#div#1;n#section#0;n#li#1;n#ul#0;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#7;n#div#1;n#section#0;n#li#1;n#ul#0;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#8;n#div#1;n#section#0;n#li#1;n#ul#0;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#9;n#div#1;n#section#0;n#li#1;n#ul#0;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#10;n#div#1;n#section#0;n#li#1;n#ul#0;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#11;n#div#1;n#section#0;n#li#1;n#ul#0;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#li#2;n#ul#0;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#header#0;n#section#0;n#li#2;n#ul#0;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#section#0;n#li#2;n#ul#0;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#section#0;n#li#2;n#ul#0;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#li#3;n#ul#0;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#li#4;n#ul#0;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/尚硅谷/(18)H5实战/项目/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3068">
+          <caret line="118" column="2" selection-start-line="118" selection-start-column="2" selection-end-line="118" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/尚硅谷/(21)VUE/VueDemo/src_todos2/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="71">
+          <caret line="114" lean-forward="true" selection-start-line="114" selection-end-line="114" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/尚硅谷/(21)VUE/VueDemo/src/components/TodoFooter.vue" />
+    <entry file="file://$PROJECT_DIR$/尚硅谷/(21)VUE/VueDemo/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/尚硅谷/(21)VUE/VueDemo/build/webpack.base.conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1973">
+          <caret line="90" column="3" lean-forward="true" selection-start-line="90" selection-start-column="3" selection-end-line="90" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/尚硅谷/(21)VUE/VueDemo/src_todos1/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" column="19" lean-forward="true" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/尚硅谷/(21)VUE/VueDemo/src_todos1/base.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="8" selection-start-column="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/尚硅谷/(21)VUE/VueDemo/src_todos2/util/storageUtil.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/尚硅谷/(21)VUE/VueDemo/src_todos2/components/TodoHeader.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1121" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/尚硅谷/(21)VUE/VueDemo/src_todos1/components/TodoList.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="16" lean-forward="true" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/尚硅谷/(21)VUE/VueDemo/src_todos1/components/TodoHeader.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="763">
+          <caret line="33" column="21" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/尚硅谷/(21)VUE/VueDemo/src_todos1/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="47" column="7" lean-forward="true" selection-start-line="40" selection-start-column="4" selection-end-line="47" selection-end-column="7" />
+          <folding>
+            <element signature="e#323#371#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/尚硅谷/(21)VUE/VueDemo/src_todos1/components/TodoFooter.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1043">
+          <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/尚硅谷/(21)VUE/VueDemo/src_todos2/components/TodoFooter.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1355" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/尚硅谷/(21)VUE/VueDemo/src/base.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/尚硅谷/(21)VUE/VueDemo/src_todos1/components/TodoItem.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="9" column="33" lean-forward="true" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/尚硅谷/(21)VUE/VueDemo/src/components/TodoItem.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1066">
+          <caret line="58" column="35" selection-start-line="58" selection-start-column="35" selection-end-line="58" selection-end-column="35" />
+          <folding>
+            <element signature="e#294#989#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/尚硅谷/(21)VUE/VueDemo/src/components/TodoList.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="55" selection-start-line="2" selection-start-column="47" selection-end-line="2" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/尚硅谷/(21)VUE/VueDemo/src/components/TodoHeader.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-598">
+          <caret line="13" column="6" lean-forward="true" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/尚硅谷/(21)VUE/VueDemo/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="8" column="2" lean-forward="true" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/尚硅谷/(21)VUE/VueDemo/src/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+          <folding>
+            <element signature="e#262#310#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VueDemo/static/users_page/index.html" />
+    <entry file="file://$PROJECT_DIR$/VueDemo/static/todos_page/index.html" />
   </component>
   <component name="masterDetails">
     <states>
