@@ -2,7 +2,9 @@
   <ul class="todo-main1">
     <li>
       <input type="checkbox" v-model="todo.complete"/>
+
       <!--<span>{{todo.title}}</span>-->
+
       <!--  v-for : 遍历数组/对象
             v-on : 绑定事件监听, 一般简写为@
             v-bind : 强制绑定解析表达式, 可以省略v-bind,简写为:
@@ -40,20 +42,33 @@
         diasabledInput: true
       }
     },
-    props: {//父组件通过 props 向下传递数据给子组件
+    props: {
+      /*父组件通过 props 向下传递数据给子组件
+        注意：组件中的 所有 props 中的数据，都是通过 父组件传递给子组件的
+        props 中的数据，都是只读的，无法重新赋值
+      */
       todo: Object,      //事项对象
       index: Number,
       deleteTodo: Function,
     },
     methods: {
       deleteItem() {
-        if (!this.todo.complete) {
+
+        /*if (!this.todo.complete) {
           const {todo, index, deleteTodo} = this
           if (window.confirm(`确认删除${todo.title}吗？`)) {
             deleteTodo(index)
           }
         } else {
-          window.confirm("已完成事项，不能删除")
+          const {todo, index, deleteTodo} = this
+          if (window.confirm(`确认删除${todo.title}吗？`)) {
+            deleteTodo(index)
+          }
+        }*/
+
+        const {todo, index, deleteTodo} = this
+        if (window.confirm(`确认删除${todo.title}吗？`)) {
+          deleteTodo(index)
         }
       },
       edit(title) {//编辑事项
@@ -61,6 +76,7 @@
           this.todo.title = ''
           this.diasabledInput = false
         } else {
+          window.confirm('事项已完成，不能编辑！')
           this.diasabledInput = true
         }
       },

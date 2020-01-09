@@ -2,17 +2,23 @@
   <ul class="todo-main">
     <input class="in1" type="text" value="进行中" readonly/>
     <button class="b">{{todos.length-completeSize}}</button>
-    <!-- <TodoItem v-for="(todo,index) in todos" :key="index" :todo="todo" :index="index" :deleteTodo="deleteTodo"/>-->
-    <!--v-for 用于循环待办事项数组 其中todo代表每条事项，index代表数组索引(0开始)-->
+    <!--v-for 用于循环待办事项todos数组,其中todo代表每条事项，index代表数组索引(0开始)-->
     <li v-for="(todo,index) in todos" :key="index" v-if="!todo.complete">
+      <!--父组件，可以在引用子组件的时候，通过 属性绑定(v-bind :) 的形式，
+      把需要传递给子组件的数据，以属性绑定的形式，传递到子组件内部，供子组件使用-->
       <TodoItem :todo="todo" :index="index" :deleteTodo="deleteTodo"/>
     </li>
+
+    <!-- <TodoItem v-for="(todo,index) in todos" :key="index" :todo="todo" :index="index" :deleteTodo="deleteTodo"/>-->
+
     <input class="in3" type="text" value="已完成" readonly/>
     <button class="b">{{completeSize}}</button>
-    <!--    <TodoItem v-for="(todo,index) in finished" :key="index" :todo="todo" :index="index" :finish="finish"/>-->
     <li v-for="(todo,index) in todos" :key="index" v-if="todo.complete">
-      <TodoItem :todo="todo" :index="index"/>
+      <TodoItem :todo="todo" :index="index" :deleteTodo="deleteTodo"/>
     </li>
+
+    <!-- <TodoItem v-for="(todo,index) in finished" :key="index" :todo="todo" :index="index" :finish="finish"/>-->
+
   </ul>
 </template>
 
@@ -20,7 +26,7 @@
   import TodoItem from './TodoItem'
 
   export default {
-    props: {//父组件通过 props 向下传递数据给子组件
+    props: {//使用props属性来定义父组件传递过来的数据,父组件通过 props 向下传递数据给子组件
       todos: Array,
       // finished: Array,    //完成事项数组
       deleteTodo: Function
@@ -49,6 +55,7 @@
          }
        }
      },*/
+
     computed: {
       completeSize() {
         return this.todos.reduce((preTotal, todo) => preTotal + (todo.complete ? 1 : 0), 0)
