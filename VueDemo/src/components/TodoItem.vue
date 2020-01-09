@@ -10,7 +10,7 @@
             v-bind : 强制绑定解析表达式, 可以省略v-bind,简写为:
             v-model : 双向数据绑定
             -->
-      <input class="i" type="text" v-model="todo.title" :disabled="diasabledInput" @keyup.enter="dis">
+      <input class="i" type="text" v-model="todo.title" :disabled="diasabledInput" @keyup.enter="dis" />
       <button class="btn btn-primary" @click="edit">编辑</button>
       <button class="btn btn-danger" @click="deleteItem">删除</button>
     </li>
@@ -98,6 +98,7 @@
     width: 58%;
     height: 40px;
     background-color: white;
+    outline : none;  /*不显示外边框*/
   }
 
   .todo-main1 {

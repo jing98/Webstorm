@@ -1,6 +1,6 @@
 <template>
   <ul class="todo-main">
-    <input class="in1" type="text" value="进行中" readonly/>
+    <input class="in1" type="text" value="进行中" readonly />
     <button class="b">{{todos.length-completeSize}}</button>
     <!--v-for 用于循环待办事项todos数组,其中todo代表每条事项，index代表数组索引(0开始)-->
     <li v-for="(todo,index) in todos" :key="index" v-if="!todo.complete">
@@ -11,7 +11,7 @@
 
     <!-- <TodoItem v-for="(todo,index) in todos" :key="index" :todo="todo" :index="index" :deleteTodo="deleteTodo"/>-->
 
-    <input class="in3" type="text" value="已完成" readonly/>
+    <input class="in3" type="text" value="已完成" readonly />
     <button class="b">{{completeSize}}</button>
     <li v-for="(todo,index) in todos" :key="index" v-if="todo.complete">
       <TodoItem :todo="todo" :index="index" :deleteTodo="deleteTodo"/>
@@ -79,6 +79,7 @@
     padding: 0 11px;
     font-size: 16px;
     border-color: white green white green;
+    outline:none;
   }
 
   .in1 {
