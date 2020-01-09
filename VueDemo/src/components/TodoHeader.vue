@@ -10,46 +10,47 @@
 <script>
   export default {
     props: {  //父组件通过 props 向下传递数据给子组件
-      addTodo:Function
+      addTodo: Function
     },
     data() {
       return {
-        title:''
+        title: ''
       }
     },
     methods: {
       addItem() {
         //1.检查输入的合法性
         const title = this.title.trim()
-        if (!title)
-        {
+        if (!title) {
           alert('必须输入')
           return
         }
         //2.根据输入生成一个todo对象
         const todo = {
           title,
-          complete:false
+          complete: false
         }
         //3.添加到todos
         this.addTodo(todo)
         //4.清除输入
-        this.title=''
+        this.title = ''
       }
     }
   }
 </script>
 
 <style scoped>
-  .todo-header .h{
+  .todo-header .h {
     height: 50px;
     background-color: green;
   }
-  h3{
+
+  h3 {
     text-align: center;
     line-height: 50px;
     color: white;
   }
+
   .todo-header input {
     height: 28px;
     width: 97%;
@@ -59,7 +60,8 @@
     margin: 15px 0 0 0;
     padding: 4px 7px;
   }
-  .todo-header button{
+
+  .todo-header button {
     width: 100%;
     border-radius: 6px;
     height: 45px;

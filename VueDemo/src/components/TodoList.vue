@@ -1,17 +1,17 @@
 <template>
   <ul class="todo-main">
     <input class="in1" type="text" value="进行中" readonly/>
-    <button class="b">{{todos.length}}</button>
-<!--    <TodoItem v-for="(todo,index) in todos" :key="index" :todo="todo" :index="index" :deleteTodo="deleteTodo"/>-->
+    <button class="b">{{todos.length-completeSize}}</button>
+    <!-- <TodoItem v-for="(todo,index) in todos" :key="index" :todo="todo" :index="index" :deleteTodo="deleteTodo"/>-->
     <!--v-for 用于循环待办事项数组 其中todo代表每条事项，index代表数组索引(0开始)-->
-    <li v-for="(todo,index) in todos" :key="index"  v-if="!todo.complete">
+    <li v-for="(todo,index) in todos" :key="index" v-if="!todo.complete">
       <TodoItem :todo="todo" :index="index" :deleteTodo="deleteTodo"/>
     </li>
     <input class="in3" type="text" value="已完成" readonly/>
     <button class="b">{{completeSize}}</button>
-<!--    <TodoItem v-for="(todo,index) in finished" :key="index" :todo="todo" :index="index" :finish="finish"/>-->
-    <li v-for="(todo,index) in todos"  :key="index" v-if="todo.complete">
-      <TodoItem :todo="todo" :index="index" :finish="finish"/>
+    <!--    <TodoItem v-for="(todo,index) in finished" :key="index" :todo="todo" :index="index" :finish="finish"/>-->
+    <li v-for="(todo,index) in todos" :key="index" v-if="todo.complete">
+      <TodoItem :todo="todo" :index="index"/>
     </li>
   </ul>
 </template>
@@ -41,10 +41,17 @@
         }
       }
     },*/
-
+    /* methods: {
+       finish(index) {
+         if (this.todo.complete) {
+           this.todos.push(this.todos[index])
+           this.todos.deleteTodo(index)
+         }
+       }
+     },*/
     computed: {
       completeSize() {
-         return this.todos.reduce((preTotal, todo) => preTotal + (todo.complete ? 1 : 0), 0)
+        return this.todos.reduce((preTotal, todo) => preTotal + (todo.complete ? 1 : 0), 0)
       },
     },
     components: {

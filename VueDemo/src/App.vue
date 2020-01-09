@@ -26,7 +26,7 @@
       },
       deleteTodo(index) {
         this.todos.splice(index, 1)
-      }
+      },
     },
     watch: {//深度监视
       todos: {

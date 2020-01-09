@@ -44,32 +44,23 @@
       todo: Object,      //事项对象
       index: Number,
       deleteTodo: Function,
-     /* finished:Array*/
     },
     methods: {
       deleteItem() {
-        if (!this.todo.complete)
-        {
+        if (!this.todo.complete) {
           const {todo, index, deleteTodo} = this
           if (window.confirm(`确认删除${todo.title}吗？`)) {
             deleteTodo(index)
           }
-        }else {
+        } else {
           window.confirm("已完成事项，不能删除")
         }
       },
-      // 将进行事项里勾选的加入到finished(已完成事项数组)
-      finish(index) {
-        if (this.todo.complete) {
-          this.todos.push(this.todos[index])
-          this.todos.deleteTodo(index)
-        }
-      },
       edit(title) {//编辑事项
-        if(!this.todo.complete){
+        if (!this.todo.complete) {
           this.todo.title = ''
           this.diasabledInput = false
-        }else {
+        } else {
           this.diasabledInput = true
         }
       },
