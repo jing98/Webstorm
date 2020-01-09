@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f782a041-1f08-43ab-86dc-ea9761173ff9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/VueDemo/src/components/TodoItem.vue" beforeDir="false" afterPath="$PROJECT_DIR$/VueDemo/src/components/TodoItem.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueDemo/src/components/TodoList.vue" beforeDir="false" afterPath="$PROJECT_DIR$/VueDemo/src/components/TodoList.vue" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -22,29 +21,50 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/VueDemo/src/App.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-468">
-              <caret line="6" column="10" lean-forward="true" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+            <state relative-caret-position="416">
+              <caret line="17" column="14" lean-forward="true" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/VueDemo/src/components/TodoItem.vue">
+        <entry file="file://$PROJECT_DIR$/VueDemo/src/base.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-561">
-              <caret line="48" column="6" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
+            <state relative-caret-position="234">
+              <caret line="9" column="18" lean-forward="true" selection-end-line="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/VueDemo/src/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="9" lean-forward="true" selection-end-line="9" />
               <folding>
-                <element signature="e#547#1310#0" />
+                <element signature="e#0#21#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/VueDemo/src/components/TodoList.vue">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/VueDemo/src/components/TodoHeader.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="33" column="4" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="4" />
+            <state relative-caret-position="260">
+              <caret line="22" column="39" lean-forward="true" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/VueDemo/src/components/TodoItem.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="83" column="13" selection-start-line="83" selection-start-column="13" selection-end-line="83" selection-end-column="13" />
+              <folding>
+                <element signature="e#547#1310#0" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -127,8 +147,8 @@
         <option value="$PROJECT_DIR$/VueDemo/src/main.js" />
         <option value="$PROJECT_DIR$/VueDemo/src/App.vue" />
         <option value="$PROJECT_DIR$/VueDemo/src/components/TodoHeader.vue" />
-        <option value="$PROJECT_DIR$/VueDemo/src/components/TodoItem.vue" />
         <option value="$PROJECT_DIR$/VueDemo/src/components/TodoList.vue" />
+        <option value="$PROJECT_DIR$/VueDemo/src/components/TodoItem.vue" />
       </list>
     </option>
   </component>
@@ -335,7 +355,7 @@
       <workItem from="1561953930689" duration="24742000" />
       <workItem from="1578445867704" duration="2410000" />
       <workItem from="1578448471071" duration="26090000" />
-      <workItem from="1578530453197" duration="15301000" />
+      <workItem from="1578530453197" duration="17719000" />
     </task>
     <task id="LOCAL-00001" summary="案例：品牌列表">
       <created>1559733633534</created>
@@ -579,7 +599,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="538352000" />
+    <option name="totallyTimeSpent" value="540770000" />
   </component>
   <component name="TodoView" selected-index="4">
     <todo-panel id="selected-file">
@@ -664,13 +684,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/尚硅谷/(9)ES5_6_7/ES5_6_7/prepare/es6/常用/12_Generator函数.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1926">
-          <caret line="84" column="5" lean-forward="true" selection-start-line="84" selection-start-column="5" selection-end-line="84" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/尚硅谷/(9)ES5_6_7/ES5_6_7/prepare/es6/常用/13_async函数.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="167">
@@ -1021,44 +1034,51 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/VueDemo/static/users_page/index.html" />
     <entry file="file://$PROJECT_DIR$/VueDemo/static/todos_page/index.html" />
+    <entry file="file://$PROJECT_DIR$/VueDemo/src/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="17" column="14" lean-forward="true" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VueDemo/src/base.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="9" column="18" lean-forward="true" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/VueDemo/src/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+        <state relative-caret-position="234">
+          <caret line="9" lean-forward="true" selection-end-line="9" />
           <folding>
             <element signature="e#0#21#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/VueDemo/src/components/TodoList.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="12" lean-forward="true" selection-end-line="108" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/VueDemo/src/components/TodoHeader.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="27" column="26" lean-forward="true" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
+        <state relative-caret-position="260">
+          <caret line="22" column="39" lean-forward="true" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="39" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/VueDemo/src/components/TodoItem.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-561">
-          <caret line="48" column="6" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
+        <state relative-caret-position="234">
+          <caret line="83" column="13" selection-start-line="83" selection-start-column="13" selection-end-line="83" selection-end-column="13" />
           <folding>
             <element signature="e#547#1310#0" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/VueDemo/src/App.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-468">
-          <caret line="6" column="10" lean-forward="true" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/VueDemo/src/components/TodoList.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="33" column="4" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="4" />
         </state>
       </provider>
     </entry>

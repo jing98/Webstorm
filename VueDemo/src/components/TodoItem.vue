@@ -73,6 +73,7 @@
       },
       edit(title) {//编辑事项
         if (!this.todo.complete) {
+          window.confirm('编辑之后请按enter键')
           this.todo.title = ''
           this.diasabledInput = false
         } else {
