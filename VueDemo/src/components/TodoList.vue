@@ -58,6 +58,7 @@
 
     computed: {
       completeSize() {
+        /*接收一个函数作为累加器，数组中的每个值（从左到右）开始缩减，最终计算为一个值*/
         return this.todos.reduce((preTotal, todo) => preTotal + (todo.complete ? 1 : 0), 0)
       },
     },

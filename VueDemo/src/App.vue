@@ -22,9 +22,11 @@
     },
     methods: {
       addTodo(todo) {
+        /*向数组的开头添加一个或更多元素，并返回新的长度*/
         this.todos.unshift(todo)
       },
       deleteTodo(index) {
+        /*splice()方法可删除从index处开始的零个或多个元素，并且用参数列表中声明的一个或多个值来替换那些被删除的元素*/
         this.todos.splice(index, 1)
       },
     },
