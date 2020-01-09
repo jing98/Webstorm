@@ -3,7 +3,7 @@ import App from './App'
 
 import './base.css'
 new Vue({
-  el:'#app',
-  components:{App},
-  template:'<App/>'
+  el: '#app',
+  components: {App},
+  template: '<App/>'
 })

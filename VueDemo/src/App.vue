@@ -3,7 +3,7 @@
     <div class="todo-wrap">
       <!-- 3、引用了组件TodoHeader，并给这个子组件传入了方法addTodo-->
       <TodoHeader :addTodo="addTodo"/>
-      <TodoList :todos="todos" :deleteTodo="deleteTodo" />
+      <TodoList :todos="todos" :deleteTodo="deleteTodo"/>
     </div>
   </div>
 </template>
@@ -12,6 +12,7 @@
   /*1、引入组件*/
   import TodoHeader from './components/TodoHeader'
   import TodoList from './components/TodoList'
+
   export default {
     data() {
       return {
