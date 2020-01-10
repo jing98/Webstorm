@@ -22,7 +22,7 @@
         //1.检查输入的合法性
         const title = this.title.trim()
         if (!title) {
-          alert('必须输入')
+          alert('必须输入！')
           return
         }
         //2.根据输入生成一个todo对象

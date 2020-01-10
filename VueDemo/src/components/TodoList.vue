@@ -1,6 +1,6 @@
 <template>
   <ul class="todo-main">
-    <input class="in1" type="text" value="进行中" readonly />
+    <input class="in1" type="text" value="进行中" readonly/>
     <button class="b">{{todos.length-completeSize}}</button>
     <!--v-for 用于循环待办事项todos数组,其中todo代表每条事项，index代表数组索引(0开始)-->
     <li v-for="(todo,index) in todos" :key="index" v-if="!todo.complete">
@@ -11,7 +11,7 @@
 
     <!-- <TodoItem v-for="(todo,index) in todos" :key="index" :todo="todo" :index="index" :deleteTodo="deleteTodo"/>-->
 
-    <input class="in3" type="text" value="已完成" readonly />
+    <input class="in3" type="text" value="已完成" readonly/>
     <button class="b">{{completeSize}}</button>
     <li v-for="(todo,index) in todos" :key="index" v-if="todo.complete">
       <TodoItem :todo="todo" :index="index" :deleteTodo="deleteTodo"/>
@@ -69,18 +69,32 @@
 </script>
 
 <style scoped>
-  .todo-main {
-    padding: 0 0 0 4px;
+  @media screen and (min-width: 360px) and (max-width: 1024px) {
+    .in1, .in3 {
+      display: inline-block;
+      width: 78%;
+      height: 35px;
+      padding: 0 11px;
+      font-size: 16px;
+      border: 1px solid cornflowerblue;
+      border-radius: 10px;
+    }
   }
 
-  .in1, .in3 {
-    display: inline-block;
-    width: 78%;
-    height: 35px;
-    padding: 0 11px;
-    font-size: 16px;
-    border-color: white green white green;
-    outline:none;
+  @media only screen and (width: 320px){
+    .in1, .in3 {
+      display: inline-block;
+      width: 77%;
+      height: 35px;
+      padding: 0 11px;
+      font-size: 16px;
+      border: 1px solid cornflowerblue;
+      border-radius: 10px;
+    }
+  }
+
+  .todo-main {
+    padding: 0;
   }
 
   .in1 {
@@ -88,6 +102,7 @@
   }
 
   .in3 {
+    margin-top: 10px;
     color: green;
   }
 
@@ -98,6 +113,7 @@
     background-color: green;
     color: white;
     padding: 15px;
+    border-radius: 10px;
   }
 
   li {
@@ -105,6 +121,7 @@
     height: 36px;
     line-height: 36px;
     padding: 0;
-    border-bottom: 1px solid #ddd;
+    /*border-bottom: 1px solid #ddd;*/
   }
+
 </style>
