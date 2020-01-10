@@ -109,8 +109,8 @@
   .b {
     width: 13%;
     height: 40px;
-    border: 1px green;
-    background-color: green;
+    border: 1px lightsteelblue;
+    background-color: lightsteelblue;
     color: white;
     padding: 15px;
     border-radius: 10px;

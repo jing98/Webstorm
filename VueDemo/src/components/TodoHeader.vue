@@ -42,7 +42,7 @@
 <style scoped>
   .todo-header .h {
     height: 60px;
-    background-color: green;
+    background-color: cadetblue;
   }
 
   h3 {
@@ -66,7 +66,7 @@
     width: 100%;
     border-radius: 6px;
     height: 45px;
-    background-color: blue;
+    background-color: cornflowerblue;
     border: 0;
     margin: 15px 5px;
     padding: 4px 7px;
